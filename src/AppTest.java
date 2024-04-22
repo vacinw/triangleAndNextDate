@@ -19,6 +19,11 @@ public class AppTest {
     }
 
     @Test
+    public void testRight(){
+        assertEquals("rightTriangle", App.triangle(5, 3, 4));
+    }
+
+    @Test
     public void testScalene(){
         assertEquals("Scalene", App.triangle(2, 3, 4));
     }
