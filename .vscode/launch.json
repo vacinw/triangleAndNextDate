@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "NextDate",
+      "request": "launch",
+      "mainClass": "NextDate",
+      "projectName": "BTNTY_f220e018"
+    },
+    {
+      "type": "java",
       "name": "App",
       "request": "launch",
       "mainClass": "App",
