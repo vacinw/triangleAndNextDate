@@ -1,5 +1,7 @@
 ## Java Testing
 
+Project bao gồm: Bài toán kiểm thử và hình ảnh độ bao phủ
+
 # Bài 1: Kiểm thử tam giác
 
 Đầu vào cho 3 số nguyên. Đầu ra là loại tam giác.
